@@ -37,3 +37,8 @@ build/
 
 ### Mac OS ###
 .DS_Store
+
+chrome-profile/
+test-output/
+target/
+*.log
